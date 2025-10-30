@@ -1,0 +1,11 @@
+C:\Users\aboba\Documents\CarWash\src\CarWash.Domain\bin\Debug\net8.0\CarWash.Domain.deps.json
+C:\Users\aboba\Documents\CarWash\src\CarWash.Domain\bin\Debug\net8.0\CarWash.Domain.dll
+C:\Users\aboba\Documents\CarWash\src\CarWash.Domain\bin\Debug\net8.0\CarWash.Domain.pdb
+C:\Users\aboba\Documents\CarWash\src\CarWash.Domain\obj\Debug\net8.0\CarWash.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aboba\Documents\CarWash\src\CarWash.Domain\obj\Debug\net8.0\CarWash.Domain.AssemblyInfoInputs.cache
+C:\Users\aboba\Documents\CarWash\src\CarWash.Domain\obj\Debug\net8.0\CarWash.Domain.AssemblyInfo.cs
+C:\Users\aboba\Documents\CarWash\src\CarWash.Domain\obj\Debug\net8.0\CarWash.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aboba\Documents\CarWash\src\CarWash.Domain\obj\Debug\net8.0\CarWash.Domain.dll
+C:\Users\aboba\Documents\CarWash\src\CarWash.Domain\obj\Debug\net8.0\refint\CarWash.Domain.dll
+C:\Users\aboba\Documents\CarWash\src\CarWash.Domain\obj\Debug\net8.0\CarWash.Domain.pdb
+C:\Users\aboba\Documents\CarWash\src\CarWash.Domain\obj\Debug\net8.0\ref\CarWash.Domain.dll
