@@ -1,0 +1,5 @@
+C:\Users\aboba\Documents\CarWash\src\CarWash.Application\obj\Debug\net8.0\CarWash.Application.csproj.AssemblyReference.cache
+C:\Users\aboba\Documents\CarWash\src\CarWash.Application\obj\Debug\net8.0\CarWash.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aboba\Documents\CarWash\src\CarWash.Application\obj\Debug\net8.0\CarWash.Application.AssemblyInfoInputs.cache
+C:\Users\aboba\Documents\CarWash\src\CarWash.Application\obj\Debug\net8.0\CarWash.Application.AssemblyInfo.cs
+C:\Users\aboba\Documents\CarWash\src\CarWash.Application\obj\Debug\net8.0\CarWash.Application.csproj.CoreCompileInputs.cache
